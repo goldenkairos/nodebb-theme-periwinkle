@@ -1,8 +1,8 @@
 {
-    "id": "nodebb-theme-lavender",
-    "name": "Lavender",
-    "description": "A theme that utilizes a masonry (magazine-like) homepage.",
-    "url": "https://github.com/NodeBB/nodebb-theme-lavender",
+    "id": "nodebb-theme-periwinkle",
+    "name": "Periwinkle",
+    "description": "A magical theme with the world of unicorn.",
+    "url": "https://github.com/goldenkairos/nodebb-theme-periwinkle",
     "screenshot": "screenshot.png",
-    "baseTheme": "nodebb-theme-persona"
+    "baseTheme": "nodebb-theme-periwinkle"
 }
